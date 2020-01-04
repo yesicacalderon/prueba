@@ -4,6 +4,9 @@ import java.time.LocalDate;
 
 public class Comprobante {
 
+	
+	
+	
 	protected LocalDate fecha;
 	Producto producto;
 	protected int cantidad;
