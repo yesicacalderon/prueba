@@ -10,6 +10,7 @@ public class Empleado {
 		super();
 		this.nombre = nombre;
 		this.apellido = apellido;
+		
 		this.dni = dni;
 		this.sucursal = sucursal;
 	}
